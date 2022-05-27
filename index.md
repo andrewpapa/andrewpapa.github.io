@@ -32,5 +32,5 @@ DESY, Hamburg and at the Cavendish Lab, University of Cambridge.
 
 | --- | --- |
 | Email:   | andrew.papanastasiou@ed.ac.uk |
-| Contact: | <span style="font-size:1em;">MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh</span> |
-|          | <span style="font-size:1em;">Western General Hospital, Crewe Road, Edinburgh, EH4 2XU, UK</span> |
+| Contact: | MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh |
+|          | Western General Hospital, Crewe Road, Edinburgh, EH4 2XU, UK |
