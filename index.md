@@ -30,6 +30,10 @@ Following my PhD, I was fortunate enough to spend time working with world-leadin
 researchers as a visiting student at CERN, and as a Post-doctoral researcher at 
 DESY, Hamburg and at the Cavendish Lab, University of Cambridge.
 
-
-Email: andrew.papanastasiou@ed.ac.uk
-
+| --- | --- |
+| Email:   | andrew.papanastasiou@ed.ac.uk |
+| Contact: | MRC Human Genetics Unit |
+|          | Institute of Genetics and Cancer |
+|          | University of Edinburgh |
+|          | Western General Hospital, Crewe Road |
+|          | Edinburgh, EH4 2XU, UK |
