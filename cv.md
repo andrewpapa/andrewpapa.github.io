@@ -15,5 +15,5 @@ permalink: /cv/
 
 | :------------- | ------------- |
 | 2008 - 2012 | PhD, Theoretical Particle Physics, Durham University |
-| 2007 - 2008 | MMath / Part III, Mathematics (*Distinction*), University of Cambridge |
-| 2004 - 2007 | BA Mathematics (*1st class, Honours*), University of Cambridge |
+| 2007 - 2008 | MMath / Part III, Mathematics, University of Cambridge |
+| 2004 - 2007 | BA Mathematics, University of Cambridge |
