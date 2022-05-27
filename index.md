@@ -10,16 +10,14 @@ I am Cross Disciplinary Fellow ([XDF](https://www.ed.ac.uk/cross-disciplinary-fe
 at the MRC [Human Genetics Unit](https://www.ed.ac.uk/mrc-human-genetics-unit) and
 [School of Informatics](https://www.ed.ac.uk/informatics)  at the University of Edinburgh, 
 with a background and training in Mathematics and Theoretical Physics.
-#
+ 
 I develop and apply machine learning methods to extract informative
 patterns from high-dimensional multi-omics datasets (bulk and single-cell),
 with the overarching goal of gaining a deeper understanding of the
 gene-regulatory mechanisms driving cellular-state transitions.
-#
 The current biological focus of my work lies in the field of very early eye development,
 where I collaborate closely with wet-lab scientists to unpick the crucial
 molecular events required to establish the earliest ocular structures in mammals.
-#
 This work has the potential to inform genetic diagnoses of pediatric eye-malformations,
 in particular through the identification of non-coding causal variations.
 
