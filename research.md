@@ -11,12 +11,40 @@ physics_pubs:
       doi:     "https://doi.org/10.1088/1361-6471/abb1b6"
       arxiv:   "https://arxiv.org/abs/1912.08801"
 
+    - title:   "Impact of LHC top-quark pair measurements to CTEQ-TEA PDF analysis."
+      author:  "O. Amat, M. Czakon, S. Dulat, T.-J. Hou, J. Huston, A. Mitov, A.S. Papanastasiou, C. Schmidt, I. Sitiwaldi, K. Xie, Z. Yu, C.-P. Yuan"
+      journal: "PoS DIS2019 (2019) 017 -- DIS2019 conference"
+      year:    "2019"
+      doi:     "https://doi.org/10.22323/1.352.0017"
+      arxiv:   "https://arxiv.org/abs/1908.06441"
+
+    - title:   "(contribution to) Report from Working Group 1 : Standard Model Physics at the HL-LHC and HE-LHC."
+      author:  "P. Azzi, S. Farry, P. Nason et al. "
+      journal: "CERN Yellow Rep.Monogr. 7 (2019) 1-220"
+      year:    "2019"
+      doi:     "https://doi.org/10.23731/CYRM-2019-007.1"
+      arxiv:   "https://arxiv.org/abs/1902.04070"
+
+    - title:   "Top quark pair production at NNLO+NNLL' in QCD combined with electroweak corrections."
+      author:  "M. Czakon, A. Ferroglia, A. Mitov, D. Pagani, A.S. Papanastasiou, B.D. Pecjak, D.J. Scott,  I. Tsinikos, X. Wang, L.L. Yang, M. Zaro"
+      journal: "Chin.Phys.C 44 (2020) 8, 083104, TOP2018 conference"
+      year:    "2019"
+      doi:     "https://doi.org/10.1088/1674-1137/44/8/083104"
+      arxiv:   "https://arxiv.org/abs/1901.08281"
+
     - title:   "Higher order corrections to spin correlations in top quark pair production at the LHC."
       author:  "A. Behring, M. Czakon, A. Mitov, A.S. Papanastasiou and R. Poncelet"
       journal: "Phys.Rev.Lett. 123 (2019) 8, 082001"
       year:    "2019"
       doi:     "https://doi.org/10.1103/PhysRevLett.123.082001"
       arxiv:   "https://arxiv.org/abs/1901.05407"
+
+    - title:   "NNLO versus NLO multi-jet merging for top-pair production including electroweak corrections."
+      author:  "M. Czakon, C. G&uuml;tschow, J.M. Lindert, A. Mitov, D. Pagani, A.S. Papanastasiou,  M. Sch&ouml;nherr, I. Tsinikos and M. Zaro"
+      journal: "TOP2018 conference"
+      year:    "2019"
+      doi:     ""
+      arxiv:   "https://arxiv.org/abs/1901.04442"
 
 
 physics_preprints:
