@@ -31,6 +31,6 @@ researchers as a visiting student at CERN, and as a Post-doctoral researcher at
 DESY, Hamburg and at the Cavendish Lab, University of Cambridge.
 
 | --- | --- |
-| Email:   | andrew.papanastasiou@ed.ac.uk |
-| Contact: | MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh |
-|          | Western General Hospital, Crewe Road, Edinburgh, EH4 2XU, UK |
+| Email:   | &nbsp; andrew.papanastasiou@ed.ac.uk |
+| Contact: | &nbsp; MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh |
+|          | &nbsp; Western General Hospital, Crewe Road, Edinburgh, EH4 2XU, UK |
