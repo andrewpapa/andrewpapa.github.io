@@ -74,6 +74,34 @@ physics_pubs:
       doi:     "http://dx.doi.org/10.1103/PhysRevD.96.051501"
       arxiv:   "https://arxiv.org/abs/1705.08903"
 
+    - title:   "(contribution to) Handbook of LHC Higgs Cross Sections: 4. Deciphering the Nature of the Higgs Sector."
+      author:  "D.~de Florian, C.~Grojean, F.~Maltoni et al."
+      journal: "CERN Yellow Reports: Monographs: Vol 2 (2017)"
+      year:    "2016"
+      doi:     "http://dx.doi.org/10.23731/CYRM-2017-002"
+      arxiv:   "https://arxiv.org/abs/1610.07922"
+
+    - title:   "Matched predictions for the $b\bar{b}H$ cross section at the 13 TeV LHC."
+      author:  "M. Bonvini, A.S. Papanastasiou and F.J. Tackmann"
+      journal: "JHEP 1610 (2016) 053"
+      year:    "2016"
+      doi:     "http://dx.doi.org/10.1007/JHEP10(2016)053"
+      arxiv:   "http://arxiv.org/abs/1605.01733"
+
+    - title:   "Off-shell single-top production at NLO matched to parton showers."
+      author:  "S. Frixione, R. Frederix, A.S. Papanastasiou, S. Prestel and P. Torrielli"
+      journal: "JHEP 1606 (2016) 027"
+      year:    "2016"
+      doi:     "http://dx.doi.org/10.1007/JHEP06(2016)027"
+      arxiv:   "http://arxiv.org/abs/1603.01178"
+
+    - title:   "Theory overview of recent progress on single-top production predictions and tools."
+      author:  "A.S. Papanastasiou"
+      journal: "PoS(TOP2015)22"
+      year:    "2016"
+      doi:     "http://pos.sissa.it/archive/conferences/257/022/TOP2015_022.pdf"
+      arxiv:   ""
+
 
 
 
