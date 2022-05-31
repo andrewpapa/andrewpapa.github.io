@@ -46,6 +46,37 @@ physics_pubs:
       doi:     ""
       arxiv:   "https://arxiv.org/abs/1901.04442"
 
+    - title:   "Top Quark Pair Production: theory overview."
+      author:  "A.S. Papanastasiou"
+      journal: "TOP2017 conference"
+      year:    "2018"
+      doi:     ""
+      arxiv:   "https://arxiv.org/abs/1801.01020"
+
+    - title:   "Heavy-flavor parton distributions without heavy-flavor matching prescriptions."
+      author:  "V. Bertone, A. Glazov, A. Mitov, A.S. Papanastasiou and M. Ubiali"
+      journal: "JHEP 04 (2018) 046"
+      year:    "2017"
+      doi:     "https://doi.org/10.1007/JHEP04(2018)046"
+      arxiv:   "https://arxiv.org/abs/1711.03355"
+
+    - title:   "Fully-differential predictions for top pair-production and decay at high precision."
+      author:  "A.S. Papanastasiou"
+      journal: "PoS(EPS-HEP2017)456"
+      year:    "2017"
+      doi:     "https://pos.sissa.it/314/456/pdf"
+      arxiv:   ""
+
+    - title:   "Top-quark pair-production and decay at high precision."
+      author:  "J. Gao and A.S. Papanastasiou"
+      journal: "Phys.Rev. D96 (2017) no.5, 051501"
+      year:    "2017"
+      doi:     "http://dx.doi.org/10.1103/PhysRevD.96.051501"
+      arxiv:   "https://arxiv.org/abs/1705.08903"
+
+
+
+
 
 physics_preprints:
 
@@ -60,12 +91,14 @@ physics_preprints:
 
 ## Physics Publications (peer reviewed)
 
+Note: by convention and with rare exceptions, authors in Particle Physics publications are listed in *alphabetical* order.
+
 {% for pub in page.physics_pubs %}
 [**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})<br />
 {{pub.author}}<br />
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
-{% endif %} *{{pub.year}}* 
+{% endif %}
 {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
 {% if pub.arxiv %}[[arxiv]({{pub.arxiv}})]{% endif %}
 
