@@ -98,8 +98,7 @@ Note: by convention and with rare exceptions, authors in Particle Physics public
 {{pub.author}}<br />
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
-{% endif %}
-{% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
+{% endif %} {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
 {% if pub.arxiv %}[[arxiv]({{pub.arxiv}})]{% endif %}
 
 {% endfor %}
