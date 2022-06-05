@@ -117,6 +117,14 @@ physics_preprints:
 
 ---
 
+## Research Focus
+
+Full lists and details of my publications can be found on 
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=34R7AfUAAAAJ) and 
+[iNSPIRE](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20A.S.Papanastasiou.1&ui-citation-summary=true).
+
+## Summary of Physics research (pre-2019)
+
 ## Physics Publications (peer reviewed)
 
 Note: by convention and with rare exceptions, authors in Particle Physics publications are listed in *alphabetical* order.

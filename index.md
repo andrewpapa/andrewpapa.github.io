@@ -25,7 +25,7 @@ in particular through the identification of non-coding causal variations.
 
 
 
-For my Undergraduate and Masters (Part III) degree I read Mathematics at the 
+For my Undergraduate and Masters (Part III) degrees I read Mathematics at the 
 University of Cambridge after which I moved to Durham University to undertake my 
 PhD research in Theoretical Particle Physics (high-precision perturbative QCD).
 Following my PhD, I was fortunate enough to spend time working with world-leading
