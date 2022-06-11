@@ -20,17 +20,21 @@ gene-regulatory mechanisms driving cellular-state transitions.
 The current biological focus of my work lies in the field of very early eye development,
 where I collaborate closely with wet-lab scientists to unpick the crucial
 molecular events required to establish the earliest ocular structures in mammals.
-This work has the potential to inform genetic diagnoses of pediatric eye-malformations,
+This work has the potential to inform genetic diagnoses of paediatric eye-malformations,
 in particular through the identification of non-coding causal variations.
-
 
 
 For my Undergraduate and Masters (Part III) degrees I read Mathematics at the 
 University of Cambridge after which I moved to Durham University to undertake my 
-PhD research in Theoretical Particle Physics (high-precision perturbative QCD).
+PhD research in Theoretical Particle Physics (perturbative QCD).
 Following my PhD, I was fortunate enough to spend time working with world-leading
 researchers as a visiting student at CERN, and as a Post-doctoral researcher at 
 DESY, Hamburg and at the Cavendish Lab, University of Cambridge.
+
+Details of my publications can be found on  
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=34R7AfUAAAAJ) and
+[inSPIRE](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20A.S.Papanastasiou.1&ui-citation-summary=true).
+
 
 | --- | --- |
 | Email:   | &nbsp; andrew.papanastasiou@ed.ac.uk |

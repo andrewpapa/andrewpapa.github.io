@@ -102,8 +102,47 @@ physics_pubs:
       doi:     "http://pos.sissa.it/archive/conferences/257/022/TOP2015_022.pdf"
       arxiv:   ""
 
+    - title:   "Probing the top-quark width through ratios of resonance contributions of $e^+e^-\rightarrow W^+W^-b\bar{b}$."
+      author:  "S. Liebler, G. Moortgat-Pick, A.S. Papanastasiou"
+      journal: "JHEP 1603 (2016) 099"
+      year:    "2015"
+      doi:     "http://dx.doi.org/10.1007/JHEP03(2016)099"
+      arxiv:   "http://arxiv.org/abs/1511.02350"
 
+    - title:   "Resummation of b-quark mass effects in $b\bar{b}H$-induced Higgs production."
+      author:  "M. Bonvini, A.S. Papanastasiou and F.J. Tackmann"
+      journal: "JHEP 1511 (2015) 196"
+      year:    "2015"
+      doi:     "http://dx.doi.org/10.1007/JHEP11(2015)196"
+      arxiv:   "http://arxiv.org/abs/1508.03288"
 
+    - title:   "Renormalization-group improved fully differential cross sections for top pair production."
+      author:  "A. Broggio, A.S. Papanastasiou and A. Signer"
+      journal: "JHEP 1410 (2014) 98"
+      year:    "2014"
+      doi:     "http://dx.doi.org/10.1007/JHEP10(2014)098"
+      arxiv:   "http://arxiv.org/abs/1407.2532"
+
+    - title:   "(contribution to) High precision fundamental constants at the TeV scale."
+      author:  "S. Moch, S. Weinzierl et al. "
+      journal: "Mainz Institute for Theoretical Physics (MITP)"
+      year:    "2014"
+      doi:     ""
+      arxiv:   "http://arxiv.org/abs/1405.4781"
+
+    - title:   "Single-top $t$-channel production with off-shell and non-resonant effects."
+      author:  "A.S. Papanastasiou, R. Frederix, S. Frixione, V. Hirschi and F. Maltoni"
+      journal: "Phys. Lett. B726 (2013) 223-227"
+      year:    "2013"
+      doi:     "http://dx.doi.org/10.1016/j.physletb.2013.07.062"
+      arxiv:   "http://arxiv.org/abs/arXiv:1305.7088"
+
+    - title:   "Finite-width effects in unstable-particle production at hadron colliders."
+      author:  "P. Falgari, A.S. Papanastasiou and A. Signer"
+      journal: "JHEP 1305 (2013) 156"
+      year:    "2013"
+      doi:     "http://dx.doi.org/10.1007/JHEP05(2013)156"
+      arxiv:   "http://arxiv.org/abs/arXiv:1303.5299"
 
 
 physics_preprints:
@@ -117,13 +156,30 @@ physics_preprints:
 
 ---
 
-## Research Focus
+## Research Focus: regulation of cell-state transitions
 
 Full lists and details of my publications can be found on 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=34R7AfUAAAAJ) and 
-[iNSPIRE](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20A.S.Papanastasiou.1&ui-citation-summary=true).
+[inSPIRE](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20A.S.Papanastasiou.1&ui-citation-summary=true).
 
 ## Summary of Physics research (pre-2019)
+
+I was very lucky to be working in Particle Physics during the hugely exciting time
+surrounding the discovery of the Higgs Boson at the experiments at CERN.
+My work furing this time focused on improving theoretical predictions for
+hadron-collider processes involving heavy quarks, with particular emphasis 
+placed on gaining better control of the underlying uncertainties due to the 
+perturbative approximations made.
+The latter is a crucial step towards the precise extraction of Standard Model 
+parameters from experimental data, as well as aiding New Physics discoveries.
+
+More specifically, in collaboration with many brilliant scientists and working within
+the framework of perturbative QCD, I developed new theoretical methods and simulation 
+tools that directly resulted in more precise predictions and modelling for processes 
+involving top and bottom quarks.
+I also worked on designing methods and analyses with which to exploit experimental 
+data so as to better extract fundamental parameters such as the top-quark mass 
+and decay-width and the strong coupling constant.
 
 ## Physics Publications (peer reviewed)
 

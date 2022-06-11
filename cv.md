@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Brief CV
 permalink: /cv/
 ---
 
@@ -10,6 +10,7 @@ permalink: /cv/
 | 2018 - present | &nbsp; Cross-disciplinary Fellow, MRC Human Genetics Unit and University of Edinburgh |
 | 2015 - 2018 | &nbsp; Post-doctoral Research Fellow, Cavendish Laboratory, University of Cambridge |
 | 2013 - 2015 | &nbsp; Post-doctoral Research Fellow, DESY, Hamburg |
+| 2012 | &nbsp; Theory Group Visitor, CERN, Geneva |
 
 ## Education
 
