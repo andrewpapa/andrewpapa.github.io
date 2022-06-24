@@ -20,12 +20,14 @@ gene-regulatory mechanisms driving cellular-state transitions.
 The current biological focus of my work lies in the field of very early eye development,
 where I collaborate closely with wet-lab scientists to unpick the crucial
 molecular events required to establish the earliest ocular structures in mammals.
+<!---
 This work has the potential to inform genetic diagnoses of paediatric eye-malformations,
 in particular through the identification of non-coding causal variations.
+-->
 
 
 For my Undergraduate and Masters (Part III) degrees I read Mathematics at the 
-University of Cambridge after which I moved to Durham University to undertake my 
+University of Cambridge, after which I moved to Durham University to undertake my 
 PhD research in Theoretical Particle Physics (perturbative QCD).
 Following my PhD, I was fortunate enough to spend time working with world-leading
 researchers as a visiting student at CERN, and as a Post-doctoral researcher at 
