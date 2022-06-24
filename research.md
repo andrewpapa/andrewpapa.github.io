@@ -156,7 +156,7 @@ physics_preprints:
 
 ---
 
-## Biomedical Research
+## Biomedical Research -- mechanisms of cell-state transitions
 
 Taking a highly data-driven approach, the overarching goal of my research is a deeper understanding of the
 molecular mechanisms driving **cellular-state transitions** in health and disease.
