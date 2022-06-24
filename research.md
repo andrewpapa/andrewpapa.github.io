@@ -187,7 +187,6 @@ generalizable principles of chromatin-accessibility regulated gene-expression an
 eye-field specification.  
 [Awarded an Wellcome/UoE ISSF grant to generate data and develop methods for this project.]
 
-### 
 
 
 <!---
@@ -195,7 +194,7 @@ Full lists and details of my publications can be found on [Google Scholar](https
 and [inSPIRE](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20A.S.Papanastasiou.1&ui-citation-summary=true).
 -->
 
-## Summary of Physics research (pre-2019)
+## Physics research summary (pre-2019)
 
 I was very lucky to work in Particle Physics during the hugely exciting time
 surrounding the discovery of the Higgs Boson at the experiments at CERN.
