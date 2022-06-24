@@ -156,28 +156,46 @@ physics_preprints:
 
 ---
 
-## Research Focus: regulation of cell-state transitions
+## Biomedical Research
 
-Full lists and details of my publications can be found on 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=34R7AfUAAAAJ) and 
-[inSPIRE](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20A.S.Papanastasiou.1&ui-citation-summary=true).
+Taking a highly data-driven approach, the overarching goal of my research is a deeper understanding of the
+molecular mechanisms driving **cellular-state transitions** in health and disease.
+I am particularly interested in how the interactions between transcription factors and non-coding regions of
+the genome regulate the expression of genes, with a view to gaining quantitative insights into the causes of
+aberrant gene expression in disease. 
+
+During my fellowship, my work has focussed on quantifying the neccessary molecular changes required for 
+the stable formation of the mammalian eye-field -- the earliest known stage of eye development.
+The main goal of my research is to identify how a key set of eye-field transcription factors is
+switched-on in a coordinated manner in the developing neural plate during gastrulation. 
+
+In order to build data-driven evidence and hypotheses of these critical mechanisms, I develop and apply 
+machine learning methods to extract informative patterns from bulk and single-cell genomic datasets 
+(mainly RNA-seq and ATAC-seq) generated from primary tissue and model systems.
+
+### 
+
+
+<!---
+Full lists and details of my publications can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=34R7AfUAAAAJ) 
+and [inSPIRE](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20A.S.Papanastasiou.1&ui-citation-summary=true).
+-->
 
 ## Summary of Physics research (pre-2019)
 
-I was very lucky to be working in Particle Physics during the hugely exciting time
+I was very lucky to work in Particle Physics during the hugely exciting time
 surrounding the discovery of the Higgs Boson at the experiments at CERN.
-My work furing this time focused on improving theoretical predictions for
+My work during this time focused on improving theoretical predictions for
 hadron-collider processes involving heavy quarks, with particular emphasis 
-placed on gaining better control of the underlying uncertainties due to the 
-perturbative approximations made.
+on gaining better control of the underlying modelling uncertainties.
 The latter is a crucial step towards the precise extraction of Standard Model 
-parameters from experimental data, as well as aiding New Physics discoveries.
+parameters from experimental data, as well as for aiding New Physics discoveries.
 
 More specifically, in collaboration with many brilliant scientists and working within
 the framework of perturbative QCD, I developed new theoretical methods and simulation 
-tools that directly resulted in more precise predictions and modelling for processes 
-involving top and bottom quarks.
-I also worked on designing methods and analyses with which to exploit experimental 
+tools that directly resulted in more precise theory predictions and modelling for 
+processes involving top and bottom quarks.
+I also worked on designing analyses with which to exploit experimental 
 data so as to better extract fundamental parameters such as the top-quark mass 
 and decay-width and the strong coupling constant.
 
