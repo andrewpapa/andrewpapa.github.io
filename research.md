@@ -173,6 +173,20 @@ In order to build data-driven evidence and hypotheses of these critical mechanis
 machine learning methods to extract informative patterns from bulk and single-cell genomic datasets 
 (mainly RNA-seq and ATAC-seq) generated from primary tissue and model systems.
 
+Two key projects I am currently involved in are:
+
+- *Characterising the mammalian eye-field state using an organoid model.* (with L. Owen \& D. FitzPatrick -- to appear)  
+Using integrated computational analyses of bulk, matched RNA-seq and ATAC-seq time-course data from an mECS-derived 
+optic-vescicle model, we develop a systematic approach to identify candidate transcription factors and 
+cis-regulatory elements important for controlling gene-expression programs crucial for enabling cells to transition 
+to ocular states.
+
+- *Coupled transcriptome-chromatin dynamics and regulation of cell state in early eye development.* 
+Develop computational approaches for analyses of 10X single-cell Multiome data, aiming to reveal 
+generalizable principles of chromatin-accessibility regulated gene-expression and cell differentiation, during
+eye-field specification.  
+[Awarded an Wellcome/UoE ISSF grant to generate data and develop methods for this project.]
+
 ### 
 
 
