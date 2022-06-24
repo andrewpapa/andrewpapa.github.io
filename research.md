@@ -180,13 +180,13 @@ Using integrated computational analyses of bulk, matched RNA-seq and ATAC-seq ti
 optic-vescicle organoids, we develop a systematic approach to identify candidate transcription factors and 
 cis-regulatory elements important for controlling gene-expression programs crucial for enabling cells to transition 
 to ocular states.  
-[with L. Owen & D. FitzPatrick -- to appear]
+*[with L. Owen & D. FitzPatrick -- to appear]*
 
 - **Coupled transcriptome-chromatin dynamics and regulation of cell state in early eye development.**   
-Develop computational approaches for analyses of 10X single-cell Multiome data, aiming to reveal 
+Developing computational approaches for analyses of 10X single-cell Multiome data, aiming to reveal 
 generalizable principles of chromatin-accessibility regulated gene-expression and cell differentiation, during
 eye-field specification.  
-[Awarded an Wellcome/UoE ISSF grant to generate data and develop methods for this project.]
+*[Awarded an Wellcome/UoE ISSF grant to generate data and develop methods for this project.]*
 
 
 
