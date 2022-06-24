@@ -197,7 +197,7 @@ and [inSPIRE](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q
 
 ## Physics research summary (pre-2019)
 
-I was very lucky to work in Particle Physics during the hugely exciting time
+I was lucky to work in Particle Physics during the hugely exciting time
 surrounding the discovery of the Higgs Boson at the experiments at CERN.
 My work during this time focused on improving theoretical predictions for
 hadron-collider processes involving heavy quarks, with particular emphasis 
