@@ -176,7 +176,7 @@ machine learning methods to extract informative patterns from bulk and single-ce
 Two key projects I am currently leading on are:
 
 - **Characterising the mammalian eye-field state using an organoid model.**  
-Using integrated computational analyses of matched RNA-seq and ATAC-seq time-course data from mESC-derived 
+Using integrated analyses of matched RNA-seq and ATAC-seq time-course data from mESC-derived 
 optic-vescicle organoids, we develop a systematic approach to identify candidate transcription factors and 
 cis-regulatory elements important for controlling gene-expression programs crucial for enabling cells to transition 
 to ocular states.  
