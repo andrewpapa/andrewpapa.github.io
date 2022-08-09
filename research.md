@@ -2,6 +2,15 @@
 layout: page
 permalink: /research/
 title: Research
+
+bio_preprints:
+
+    - title:   "Robust genetic analysis of the X-linked anophthalmic (Ie) mouse"
+      author:  "B.A. Hernandez-Moran, A.S. Papanastasiou, D. Parry, A. Meynert, P. Gautier, G. Grimes, 
+                I. Adams, V. Trejo-Reveles, H. Bengani, M. Keighren, I. Jackson, D.J. Adams, D.R. FitzPatrick and J. Rainger"
+      year:    "2022"
+      biorxiv: "https://doi.org/10.1101/2022.08.05.502661"
+
 physics_pubs:
 
     - title:   "An exploratory study of the impact of CMS double-differential top distributions on the gluon parton distribution function."
@@ -188,6 +197,15 @@ generalizable principles of chromatin-accessibility regulated gene-expression an
 eye-field specification.  
 *[Awarded an Wellcome/UoE ISSF grant to generate data and develop methods for this project.]*
 
+## Biology/Biomedical Pre-prints
+
+{% for pub in page.bio_preprints %}
+[**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})<br />
+{{pub.author}}<br />
+ *{{pub.year}}* 
+{% if pub.biorxiv %}[[bioRxiv]({{pub.biorxiv}})]{% endif %}
+
+{% endfor %}
 
 
 <!---
