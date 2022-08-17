@@ -5,7 +5,12 @@ title: Research
 
 bio_preprints:
 
-    - title:   "Robust genetic analysis of the X-linked anophthalmic (Ie) mouse"
+    - title:   "Characterization of an Eye Field-like State during Optic Vesicle Organoid Development"
+      author:  "L.J. Owen, J. Rainger, H. Bengani, F. Kilanowski, D.R. FitzPatrick, A.S. Papanastasiou"
+      year:    "2022"
+      biorxiv: ""https://doi.org/10.1101/2022.08.16.504119
+
+    - title:   "Robust genetic analysis of the X-linked anophthalmic (Ie) mouse."
       author:  "B.A. Hernandez-Moran, A.S. Papanastasiou, D. Parry, A. Meynert, P. Gautier, G. Grimes, 
                 I. Adams, V. Trejo-Reveles, H. Bengani, M. Keighren, I. Jackson, D.J. Adams, D.R. FitzPatrick and J. Rainger"
       year:    "2022"
