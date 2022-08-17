@@ -213,11 +213,6 @@ eye-field specification.
 {% endfor %}
 
 
-<!---
-Full lists and details of my publications can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=34R7AfUAAAAJ) 
-and [inSPIRE](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20A.S.Papanastasiou.1&ui-citation-summary=true).
--->
-
 ## Physics research summary (pre-2019)
 
 I was lucky to work in Particle Physics during the hugely exciting time
@@ -241,7 +236,7 @@ and decay-width and the strong coupling constant.
 Note: by convention and with rare exceptions, authors in Particle Physics publications are listed in *alphabetical* order.
 
 {% for pub in page.physics_pubs %}
-[**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})<br />
+**{{pub.title}}**<br />
 {{pub.author}}<br />
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
@@ -254,7 +249,7 @@ Note: by convention and with rare exceptions, authors in Particle Physics public
 ## Physics Pre-prints
 
 {% for pub in page.physics_preprints %}
-[**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})<br />
+**{{pub.title}}**<br />
 {{pub.author}}<br />
  *{{pub.year}}* 
 {% if pub.arxiv %}[[arxiv]({{pub.arxiv}})]{% endif %}
