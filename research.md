@@ -205,7 +205,7 @@ eye-field specification.
 ## Biology/Biomedical Pre-prints
 
 {% for pub in page.bio_preprints %}
-[**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})<br />
+**{{pub.title}}**<br />
 {{pub.author}}<br />
  *{{pub.year}}* 
 {% if pub.biorxiv %}[[bioRxiv]({{pub.biorxiv}})]{% endif %}
