@@ -6,6 +6,7 @@ permalink: /
 
 {% include image.html url="images/photo.jpg" caption="" max_width="300px" align="right" %}
 
+
 I am Cross Disciplinary Fellow ([XDF](https://www.ed.ac.uk/cross-disciplinary-fellowships))
 working at the MRC [Human Genetics Unit](https://www.ed.ac.uk/mrc-human-genetics-unit) and
 [School of Informatics](https://www.ed.ac.uk/informatics) at the University of Edinburgh, 
@@ -30,7 +31,7 @@ For my Undergraduate and Masters (Part III) degrees I read Mathematics at the
 University of Cambridge, after which I moved to Durham University to undertake my 
 PhD research in Theoretical Particle Physics (perturbative QCD).
 Following my PhD, I was fortunate enough to spend time working with world-leading
-researchers as a visiting student at CERN, and as a Post-doctoral researcher at 
+researchers as a visiting student at CERN, and as a Post-Doctoral researcher at 
 DESY, Hamburg and at the Cavendish Lab, University of Cambridge.
 
 Details of my publications can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=34R7AfUAAAAJ) and 

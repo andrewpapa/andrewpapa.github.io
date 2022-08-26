@@ -194,7 +194,7 @@ Using integrated analyses of matched RNA-seq and ATAC-seq time-course data from 
 optic-vescicle organoids, we develop a systematic approach to identify candidate transcription factors and 
 cis-regulatory elements important for controlling gene-expression programs crucial for enabling cells to transition 
 to ocular states.  
-*[with L. Owen & D. FitzPatrick -- to appear]*
+*[with L. Owen & D. FitzPatrick: now on [bioRxiv](https://doi.org/10.1101/2022.08.16.504119)!]*
 
 - **Coupled transcriptome-chromatin dynamics and regulation of cell state in early eye development.**   
 Developing computational approaches for analyses of 10X single-cell Multiome data, aiming to reveal 
