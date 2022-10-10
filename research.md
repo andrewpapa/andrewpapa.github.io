@@ -16,7 +16,7 @@ bio_pubs:
       author:  "B.A. Hernandez-Moran, A.S. Papanastasiou, D. Parry, A. Meynert, P. Gautier, G. Grimes, 
                 I. Adams, V. Trejo-Reveles, H. Bengani, M. Keighren, I. Jackson, D.J. Adams, D.R. FitzPatrick and J. Rainger"
       journal: "Genes 2022, 13(10), 1797"
-      doi:     "doi: 10.3390/genes13101797"
+      doi:     "https://doi.org/10.3390/genes13101797"
       year:    "2022"
       biorxiv: "https://doi.org/10.1101/2022.08.05.502661"
 
