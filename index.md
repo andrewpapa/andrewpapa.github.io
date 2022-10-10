@@ -32,7 +32,7 @@ University of Cambridge, after which I moved to Durham University to undertake m
 PhD research in Theoretical Particle Physics (perturbative QCD).
 Following my PhD, I was fortunate enough to spend time working with world-leading
 researchers as a visiting student at CERN, and as a Post-Doctoral researcher at 
-DESY, Hamburg and at the Cavendish Lab, University of Cambridge.
+[DESY](https://www.desy.de/index_eng.html), Hamburg and at the [Cavendish Lab](https://www.phy.cam.ac.uk/), University of Cambridge.
 
 Details of my publications can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=34R7AfUAAAAJ) and 
 [inSPIRE](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20A.S.Papanastasiou.1&ui-citation-summary=true).
