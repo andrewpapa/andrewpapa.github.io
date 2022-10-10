@@ -16,6 +16,16 @@ bio_preprints:
       year:    "2022"
       biorxiv: "https://doi.org/10.1101/2022.08.05.502661"
 
+bio_pubs:
+
+    - title:   "Robust genetic analysis of the X-linked anophthalmic (Ie) mouse."
+      author:  "B.A. Hernandez-Moran, A.S. Papanastasiou, D. Parry, A. Meynert, P. Gautier, G. Grimes, 
+                I. Adams, V. Trejo-Reveles, H. Bengani, M. Keighren, I. Jackson, D.J. Adams, D.R. FitzPatrick and J. Rainger"
+      journal: "Genes 2022, 13(10), 1797"
+      doi:     "doi: 10.3390/genes13101797"
+      year:    "2022"
+      biorxiv: "https://doi.org/10.1101/2022.08.05.502661"
+
 physics_pubs:
 
     - title:   "An exploratory study of the impact of CMS double-differential top distributions on the gluon parton distribution function."
@@ -208,6 +218,19 @@ eye-field specification.
 **{{pub.title}}**<br />
 {{pub.author}}<br />
  *{{pub.year}}* 
+{% if pub.biorxiv %}[[bioRxiv]({{pub.biorxiv}})]{% endif %}
+
+{% endfor %}
+
+
+## Biology/Biomedical Publications (peer reviewed)
+
+{% for pub in page.bio_pubs %}
+**{{pub.title}}**<br />
+{{pub.author}}<br />
+*{{pub.journal}}*
+{% if pub.note %} *({{pub.note}})*
+{% endif %} {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
 {% if pub.biorxiv %}[[bioRxiv]({{pub.biorxiv}})]{% endif %}
 
 {% endfor %}
