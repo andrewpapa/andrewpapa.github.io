@@ -5,6 +5,11 @@ title: Research
 
 bio_preprints:
 
+    - title:   "Unique functions of two overlapping PAX6 retinal enhancers"
+      author:  "K. Uttley, A.S. Papanastasiou, M. Lahne, J.M. Brisbane, R.B. MacDonald, W.A. Bickmore and S. Bhatia"
+      year:    "2022"
+      biorxiv: "https://doi.org/10.1101/2022.11.25.517987"
+
     - title:   "Characterization of an Eye Field-like State during Optic Vesicle Organoid Development"
       author:  "L.J. Owen, J. Rainger, H. Bengani, F. Kilanowski, D.R. FitzPatrick and A.S. Papanastasiou"
       year:    "2022"
