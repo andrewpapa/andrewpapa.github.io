@@ -44,6 +44,6 @@ Details of my publications can be found on [Google Scholar](https://scholar.goog
 
 
 | --- | --- |
-| Email:   | &nbsp; andrew.papanastasiou@ed.ac.uk |
-| Contact: | &nbsp; MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh |
-|          | &nbsp; Western General Hospital, Crewe Road, Edinburgh, EH4 2XU, UK |
+| Email:   | &nbsp; a.papanastasiou@beatson.gla.ac.uk |
+| Contact: | &nbsp; The Beatson Institute for Cancer Research |
+|          | &nbsp; Garscube Estate Switchback Road Bearsden Glasgow, G61 1BD, UK |
