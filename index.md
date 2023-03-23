@@ -46,4 +46,4 @@ Details of my publications can be found on [Google Scholar](https://scholar.goog
 | --- | --- |
 | Email:   | &nbsp; a.papanastasiou@beatson.gla.ac.uk |
 | Contact: | &nbsp; The Beatson Institute for Cancer Research |
-|          | &nbsp; Garscube Estate Switchback Road Bearsden Glasgow, G61 1BD, UK |
+|          | &nbsp; Garscube Estate, Switchback Road, Bearsden, Glasgow, G61 1BD, UK |
