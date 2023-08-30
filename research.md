@@ -9,14 +9,14 @@ bio_pubs:
 
     - title:   "Unique functions of two overlapping PAX6 retinal enhancers"
       author:  "K. Uttley, A.S. Papanastasiou, M. Lahne, J.M. Brisbane, R.B. MacDonald, W.A. Bickmore and S. Bhatia"
-      journal: "Life Science Alliance (2023) 6 (11): e202302126"
+      journal: "Life Science Alliance (2023) 6 (11), e202302126"
       doi:     "https://doi.org/10.26508/lsa.202302126"
       year:    "2022"
       biorxiv: "https://doi.org/10.1101/2022.11.25.517987"
 
     - title:   "Characterization of an Eye Field-like State during Optic Vesicle Organoid Development"
       author:  "L.J. Owen, J. Rainger, H. Bengani, F. Kilanowski, D.R. FitzPatrick and A.S. Papanastasiou"
-      journal: "Development (2023) 150 (15): dev201432"
+      journal: "Development (2023) 150 (15), dev201432"
       doi:     "https://doi.org/10.1242/dev.201432"
       year:    "2022"
       biorxiv: "https://doi.org/10.1101/2022.08.16.504119"
@@ -24,7 +24,7 @@ bio_pubs:
     - title:   "Robust genetic analysis of the X-linked anophthalmic (Ie) mouse."
       author:  "B.A. Hernandez-Moran, A.S. Papanastasiou, D. Parry, A. Meynert, P. Gautier, G. Grimes, 
                 I. Adams, V. Trejo-Reveles, H. Bengani, M. Keighren, I. Jackson, D.J. Adams, D.R. FitzPatrick and J. Rainger"
-      journal: "Genes 2022, 13(10), 1797"
+      journal: "Genes (2022) 13 (10), 1797"
       doi:     "https://doi.org/10.3390/genes13101797"
       year:    "2022"
       biorxiv: "https://doi.org/10.1101/2022.08.05.502661"
