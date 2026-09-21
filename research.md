@@ -108,7 +108,7 @@ physics_pubs:
       doi:     "http://dx.doi.org/10.23731/CYRM-2017-002"
       arxiv:   "https://arxiv.org/abs/1610.07922"
 
-    - title:   "Matched predictions for the \(b\bar{b}H\) cross section at the 13 TeV LHC."
+    - title:   'Matched predictions for the \(b\bar{b}H\) cross section at the 13 TeV LHC.'
       author:  "M. Bonvini, A.S. Papanastasiou and F.J. Tackmann"
       journal: "JHEP 1610 (2016) 053"
       year:    "2016"
