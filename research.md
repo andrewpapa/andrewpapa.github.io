@@ -257,6 +257,10 @@ I also worked on designing analyses with which to exploit experimental
 data so as to better extract fundamental parameters such as the top-quark mass 
 and decay-width and the strong coupling constant.
 
+<p>
+Matched predictions for the \(b\bar{b}H\) cross section at the 13 TeV LHC.
+</p>
+
 ## Physics Publications (peer reviewed)
 
 Note: by convention and with rare exceptions, authors in Particle Physics publications are listed in *alphabetical* order.
