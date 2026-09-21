@@ -262,7 +262,7 @@ and decay-width and the strong coupling constant.
 Note: by convention and with rare exceptions, authors in Particle Physics publications are listed in *alphabetical* order.
 
 {% for pub in page.physics_pubs %}
-<strong>Matched predictions for the \(b\bar{b}H\) cross section at the 13 TeV LHC.</strong><br />
+<strong>{{pub.title}}</strong><br />
 {{pub.author}}<br />
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
