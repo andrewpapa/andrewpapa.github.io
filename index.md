@@ -6,15 +6,14 @@ permalink: /
 
 {% include image.html url="images/photo.jpg" caption="" max_width="300px" align="right" %}
 
-I have recently taken up the position of Senior Computational Biologist at 
-the [CRUK Beatson Institute](https://www.beatson.gla.ac.uk/) working within the 
-group of [Crispin Miller](https://www.beatson.gla.ac.uk/beatson-research/beatson-research-groups/crispin-miller-computational-biology.html).
-Prior to joining the Beatson, I was a Cross Disciplinary Fellow ([XDF](https://www.ed.ac.uk/cross-disciplinary-fellowships))
+I am an Associate Scientist at the [CRUK Scotland Institute](https://www.crukscotlandinstitute.ac.uk/) 
+working within the Computational Biology group lead by 
+[Crispin Miller](https://www.crukscotlandinstitute.ac.uk/cruk-si-research/cruk-si-research-groups/crispin-miller-computational-biology.html).
+Prior to joining the CRUK-SI, I was a Cross Disciplinary Fellow ([XDF](https://www.ed.ac.uk/cross-disciplinary-fellowships))
 working at the MRC [Human Genetics Unit](https://www.ed.ac.uk/mrc-human-genetics-unit) and
 [School of Informatics](https://www.ed.ac.uk/informatics) at the University of Edinburgh, 
 within the groups of [David FitzPatrick](https://www.ed.ac.uk/mrc-human-genetics-unit/research/fitzpatrick-group)
 and [Catalina Vallejos](https://vallejosgroup.github.io/). 
- 
 
 I develop and apply machine learning methods to extract informative
 patterns from high-dimensional multi-omics datasets (bulk and single-cell),
@@ -24,9 +23,9 @@ During my time as an XDF, the biological focus of my work lay in the
 field of very early eye development, where I collaborated closely with 
 wet-lab scientists to unpick the crucial molecular events required to 
 establish the earliest ocular structures in mammals.
+<!---
 I am now excited to apply the expertise and knowledge gained during 
 my years in Edinburgh to tackle fundamental questions in cancer!
-<!---
 This work has the potential to inform genetic diagnoses of paediatric eye-malformations,
 in particular through the identification of non-coding causal variations.
 -->
