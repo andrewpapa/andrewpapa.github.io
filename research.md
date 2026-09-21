@@ -129,14 +129,14 @@ physics_pubs:
       doi:     "http://pos.sissa.it/archive/conferences/257/022/TOP2015_022.pdf"
       arxiv:   ""
 
-    - title:   "Probing the top-quark width through ratios of resonance contributions of $e^+e^-\rightarrow W^+W^-b\bar{b}$."
+    - title:   'Probing the top-quark width through ratios of resonance contributions of $$e^+e^-\rightarrow W^+W^-b\bar{b}$$.'
       author:  "S. Liebler, G. Moortgat-Pick, A.S. Papanastasiou"
       journal: "JHEP 1603 (2016) 099"
       year:    "2015"
       doi:     "http://dx.doi.org/10.1007/JHEP03(2016)099"
       arxiv:   "http://arxiv.org/abs/1511.02350"
 
-    - title:   "Resummation of b-quark mass effects in $b\bar{b}H$-induced Higgs production."
+    - title:   'Resummation of $b$-quark mass effects in $$b\bar{b}H$$-induced Higgs production.'
       author:  "M. Bonvini, A.S. Papanastasiou and F.J. Tackmann"
       journal: "JHEP 1511 (2015) 196"
       year:    "2015"
@@ -174,7 +174,7 @@ physics_pubs:
 
 physics_preprints:
 
-    - title:   "Simultaneous extraction of $\alpha_s$ and $m_t$ from LHC $t\bar{t}$ differential distributions"
+    - title:   'Simultaneous extraction of $$\alpha_s$$ and $$m_t$$ from LHC $$t\bar{t}$$ differential distributions.'
       author:  "A.M. Cooper-Sarkar, M. Czakon, M.A. Lim, A. Mitov, A.S. Papanastasiou"
       year:    "2020"
       arxiv:   "https://arxiv.org/abs/2010.04171"
