@@ -15,10 +15,16 @@ working at the MRC [Human Genetics Unit](https://www.ed.ac.uk/mrc-human-genetics
 within the groups of [David FitzPatrick](https://www.ed.ac.uk/mrc-human-genetics-unit/research/fitzpatrick-group)
 and [Catalina Vallejos](https://vallejosgroup.github.io/). 
 
-I develop and apply machine learning methods to extract informative
-patterns from high-dimensional multi-omics datasets (bulk and single-cell),
-with the overarching goal of gaining a deeper understanding of the
-gene-regulatory mechanisms driving cellular-state transitions.
+I develop and apply machine learning, AI and statistical methods to single-cell 
+omics, spatial transcriptomics and imaging datasets.
+In my current role I work with datasets generated across a number 
+of cancer contexts, with the overarching goals of: 
+
+ - gaining a mechanistic understanding of cellular transitions in cancer, particularly
+   those associated with the onset of malignancy, poor prognoses and treatment evasion, and 
+ - making robust, quantitative comparisons of preclinical models with human disease,
+   with a specific focus on gene-expression programs and mouse models of cancer.  
+
 During my time as an XDF, the biological focus of my work lay in the 
 field of very early eye development, where I collaborated closely with 
 wet-lab scientists to unpick the crucial molecular events required to 
