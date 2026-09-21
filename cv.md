@@ -7,7 +7,8 @@ permalink: /cv/
 ## Research Positions
 
 | :------------- | ------------- |
-| 2023 - present | &nbsp; Senior Computational Biologist, The Beatson Institute for Cancer Research |
+| 2024 - present | &nbsp; Associate Scientist, CRUK Scotland Institute |
+| 2023 - 2024 | &nbsp; Senior Computational Biologist,  CRUK Scotland Institute |
 | 2018 - 2023 | &nbsp; Cross-disciplinary Fellow, MRC Human Genetics Unit and University of Edinburgh |
 | 2015 - 2018 | &nbsp; Post-doctoral Research Fellow, Cavendish Laboratory, University of Cambridge |
 | 2013 - 2015 | &nbsp; Post-doctoral Research Fellow, DESY, Hamburg |

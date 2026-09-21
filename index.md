@@ -44,6 +44,6 @@ Details of my publications can be found on [Google Scholar](https://scholar.goog
 
 
 | --- | --- |
-| Email:   | &nbsp; a.papanastasiou@beatson.gla.ac.uk |
-| Contact: | &nbsp; The Beatson Institute for Cancer Research |
+| Email:   | &nbsp; a.papanastasiou@crukscotlandinstitute.ac.uk |
+| Contact: | &nbsp; CRUK Scotland Institute (formerly Beatson Institute) |
 |          | &nbsp; Garscube Estate, Switchback Road, Bearsden, Glasgow, G61 1BD, UK |
