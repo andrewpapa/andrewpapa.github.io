@@ -12,7 +12,7 @@ working within the Computational Biology group lead by
 Prior to joining the CRUK-SI, I was a Cross Disciplinary Fellow ([XDF](https://www.ed.ac.uk/cross-disciplinary-fellowships))
 working at the MRC [Human Genetics Unit](https://www.ed.ac.uk/mrc-human-genetics-unit) and
 [School of Informatics](https://www.ed.ac.uk/informatics) at the University of Edinburgh, 
-within the groups of [David FitzPatrick](https://www.ed.ac.uk/mrc-human-genetics-unit/research/fitzpatrick-group)
+within the groups of [David FitzPatrick](https://edwebprofiles.ed.ac.uk/profile/david-fitzpatrick)
 and [Catalina Vallejos](https://vallejosgroup.github.io/). 
 
 I develop and apply Machine Learning, AI and statistical methods to single-cell 

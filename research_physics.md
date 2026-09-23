@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /physics/
-title: Physics
+title: Physics (pre-2019)
 
 physics_pubs:
 
@@ -158,11 +158,9 @@ physics_preprints:
 ---
 
 
-## Physics research summary (pre-2019)
-
-I was lucky to work in Particle Physics during the hugely exciting time
+I was lucky enough to work in Particle Physics during the hugely exciting time
 surrounding the discovery of the Higgs Boson at the experiments at CERN.
-My work during this time focused on improving theoretical predictions for
+My work in this period focused on improving theoretical predictions for
 hadron-collider processes involving heavy quarks, with particular emphasis 
 on gaining better control of the underlying modelling uncertainties.
 The latter is a crucial step towards the precise extraction of Standard Model 
