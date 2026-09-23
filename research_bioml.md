@@ -50,27 +50,25 @@ bio_pubs:
 
 ---
 
-## Computational Biology Research
-
 My research involves the application of Machine Learning (ML) and Bioinformatic methods to 
 large and diverse datasets, with the goal of tackling concrete questions in cancer biology. 
 The data types I work with are, predominantly, single-cell and bulk sequencing datasets 
 (e.g. scRNA-seq/scATAC-seq), spatial transcriptomics datasets (e.g. Xenium, CosMx) and 
-increasingly imaging modalities (specifically H&Es). 
+increasingly imaging modalities (specifically, H&Es). 
+
 I particularly enjoy the challenge of turning biological questions into tangible and 
 actionable ML/computational tasks. 
 
 ### Modelling data to gain insights to biology  
 
 In broad terms, the majority of my day-to-day work can be described as applying 
-ML approaches to datasets in order to infer latent structures, which can then 
-be used to probe or answer specific biological questions. 
-Recent examples of this include: 
+ML approaches to infer latent structures from biological datasets, in order to 
+to probe or answer specific biological questions. Recent examples of this include: 
 
  - **Alignment of pre-clinical models with human tumours.** 
-   Key questions in pre-clinical cancer modelling (e.g. GEMM models) include: to what extent do 
-   models recapitulate key events in human cancers, and how do we rank different models of 
-   of a given cancer? To begin to answer this, I have developed a framework that compares 
+   Two important questions in pre-clinical cancer modelling (e.g. GEMM models) include: 
+   how well do models recapitulate key events in human cancers, and how do we rank different 
+   models of of a given cancer? To begin to answer these, I have developed a framework that compares 
    celltype-specific gene programs across species. This uses scRNA-seq datasets together 
    with matrix-factorization algorithms (e.g. NMF or archetypal analysis), optimal transport 
    and protein-language models (e.g. ESM2).
@@ -82,15 +80,15 @@ Recent examples of this include:
    lie on a continuum spectrum of states. With the advent of spatial transcriptomics (ST), there is 
    an opportunity to quantify the spatial distributions of these states and their gradients. 
    I am combining ideas from the Implicit Neural Representations (INRs) and Latent Factor Models
-   to learn continuous, spatial functions of the expression of gene-programs and their gradients
+   to learn continuous, spatial functions of gene-program expression and the associated gradients
    across tissues, from ST datasets. 
  
- - **Non-coding variants and Sequence-to-function models**
+ - **Non-coding variants and Sequence-to-function modelsi.**
    The research I performed during my XDF (see below) left me fascinated by how the combinatorial 
-   interactions of tanscription factors with non-coding regions of the genome regulate the expression 
+   interactions of transcription factors with non-coding regions of the genome regulate the expression 
    of genes. Modelling epigenetic data using sequence-to-function models has 
    begun providing insights into these *enhancer codes* and I am interested in using this kind of 
-   modelling to begin interpreting the effects non-coding variants have in tumour gene expression.
+   modelling to begin interpreting the effects non-coding variants have on tumour gene expression.
    I have gained experience training these models in the context of pancreatic cancer, using 
    publicly-available scATAC-seq datasets. I am also interested in exploring the use of these models
    for comparison of pre-clinical models with human tumours. 
@@ -117,14 +115,14 @@ Specifically, the main project I was involved with during this period used time-
 generated from mESC-derived optic-vescicle organoids, generated within the FitzPatrick lab. 
 Using integrated analyses of matched RNA-seq and ATAC-seq time-course data, I helped developed 
 a systematic approach to identify candidate transcription factors and cis-regulatory elements 
-important for controlling the transition of stem cells to the eye-field state.  
-Full details of this project can be found in our article in [Development](https://doi.org/10.1242/dev.201432).
+important for controlling the transition of stem cells to the eye-field state. Full details of 
+this project can be found in our article in [Development](https://doi.org/10.1242/dev.201432).
 
 During this period I was also very grateful to be awarded a small grant (*Wellcome/UoE ISSF*) titled
 "*Coupled transcriptome-chromatin dynamics and regulation of cell state in early eye development*". 
 The grant funded the generation of 10X Multiome data on optic-cup organoids and enabled the development
 of computational approaches for the integrated analysis of scRNA-seq and scATAC-seq data. 
-The key aims of this were to generate hypotheses of principles of chromatin-accessibility regulated 
+The key aims of this were to generate hypotheses of principles of chromatin-regulated 
 gene-expression and cell differentiation, during eye-field specification.  
 
 
