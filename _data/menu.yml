@@ -1,5 +1,8 @@
-- title: "Research"
-  href: "/research/"
+- title: "BioML"
+  href: "/bioml/"
+
+- title: "Physics"
+  href: "/physics/"
 
 - title: "CV"
   href: "/cv/"

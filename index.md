@@ -15,10 +15,10 @@ working at the MRC [Human Genetics Unit](https://www.ed.ac.uk/mrc-human-genetics
 within the groups of [David FitzPatrick](https://www.ed.ac.uk/mrc-human-genetics-unit/research/fitzpatrick-group)
 and [Catalina Vallejos](https://vallejosgroup.github.io/). 
 
-I develop and apply machine learning, AI and statistical methods to single-cell 
+I develop and apply Machine Learning, AI and statistical methods to single-cell 
 omics, spatial transcriptomics and imaging datasets.
-In my current role I work with datasets generated across a number 
-of cancer contexts, with the overarching goals of: 
+In my current role I work with data generated across a number 
+of cancer contexts, with the overarching goal of: 
 
  - gaining a mechanistic understanding of cellular transitions in cancer, particularly
    those associated with the onset of malignancy, poor prognoses and treatment evasion, and 
