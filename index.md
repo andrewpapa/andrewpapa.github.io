@@ -11,12 +11,16 @@ working within the Computational Biology group lead by
 [Crispin Miller](https://www.crukscotlandinstitute.ac.uk/cruk-si-research/cruk-si-research-groups/crispin-miller-computational-biology.html).
 I develop and apply Machine Learning, AI and statistical methods to single-cell 
 omics, spatial transcriptomics and imaging datasets.
-I work with data generated across a number of cancer contexts, with the overarching goals of: 
+I work with data generated across a number of cancer contexts, with the goal of: 
 
  - gaining mechanistic understanding of cellular transitions in cancer, particularly
    those associated with the onset of malignancy, poor prognoses and treatment evasion, and 
  - making robust, quantitative comparisons of preclinical models with human disease,
-   specifically focussing on gene-expression programs and mouse models of cancer.  
+   focused on gene-expression programs and mouse models of cancer.  
+
+Additionally, I co-supervise and mentor a small team of PhD students within the group,
+helping to refine research directions and computational analysis strategies, as well
+as participating in day-to-day troubleshooting. 
 
 Prior to joining the CRUK-SI, I was a Cross Disciplinary Fellow ([XDF](https://www.ed.ac.uk/cross-disciplinary-fellowships))
 working at the MRC [Human Genetics Unit](https://www.ed.ac.uk/mrc-human-genetics-unit) and

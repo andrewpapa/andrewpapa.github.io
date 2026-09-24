@@ -50,7 +50,7 @@ bio_pubs:
 
 ---
 
-My research involves the application of Machine Learning (ML) and Bioinformatic methods to 
+My research involves the application of Machine Learning (ML), statistical modelling and bioinformatic methods to 
 large and diverse datasets, with the goal of tackling concrete questions in cancer biology. 
 The data types I work with are, predominantly, single-cell and bulk sequencing datasets 
 (e.g. scRNA-seq/scATAC-seq), spatial transcriptomics datasets (e.g. Xenium, CosMx) and 
