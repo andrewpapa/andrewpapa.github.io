@@ -50,48 +50,48 @@ bio_pubs:
 
 ---
 
-My research involves the application of Machine Learning (ML), statistical modelling and bioinformatic methods to 
-large and diverse datasets, with the goal of tackling concrete questions in cancer biology. 
-The data types I work with are, predominantly, single-cell and bulk sequencing datasets 
-(e.g. scRNA-seq/scATAC-seq), spatial transcriptomics datasets (e.g. Xenium, CosMx) and 
-increasingly imaging modalities (specifically, H&Es). 
+My research involves the application of Machine Learning (ML), statistical modelling and 
+bioinformatic methods to large and diverse datasets, with the goal of tackling concrete 
+questions in cancer biology. I work predominantly with single-cell and bulk omics datasets, 
+as well as spatial transcriptomics datasets, and increasingly gaining experience with 
+imaging modalities (specifically, H&Es). 
 
 I particularly enjoy the challenge of turning biological questions into tangible and 
 actionable ML/computational tasks. 
 
 ### Modelling data to gain insights to biology  
 
-In broad terms, the majority of my day-to-day work can be described as applying 
-ML approaches to infer latent structures from biological datasets, in order to 
-to probe or answer specific biological questions. Recent examples of this include: 
+In broad terms, my work can be described as applying ML and statistical approaches to 
+infer latent structures from biological datasets, in order to probe or answer 
+specific biological questions. Recent examples of this include: 
 
  - **Alignment of pre-clinical models with human tumours.** 
-   Two important questions in pre-clinical cancer modelling (e.g. GEMM models) include: 
+   Two important questions in pre-clinical cancer modelling (e.g. GEMMs) include: 
    how well do models recapitulate key events in human cancers, and how do we rank different 
-   models of of a given cancer? To begin to answer these, I have developed a framework that compares 
+   models of a given cancer? To begin to answer these, I have developed a framework that compares 
    celltype-specific gene programs across species. This uses scRNA-seq datasets together 
    with matrix-factorization algorithms (e.g. NMF or archetypal analysis), optimal transport 
    and protein-language models (e.g. ESM2).
 
  - **Quantifying gene-program gradients in tumours.**
-   A typical approach to analysing data is to place data points (e.g. cells) into discrete categories, 
-   using clustering methods. While useful, these methods can often miss continuous variation
-   amongst cells, and this can be particularly important in tumour biology where cells can 
-   lie on a continuum spectrum of states. With the advent of spatial transcriptomics (ST), there is 
-   an opportunity to quantify the spatial distributions of these states and their gradients. 
-   I am combining ideas from the Implicit Neural Representations (INRs) and Latent Factor Models
-   to learn continuous, spatial functions of gene-program expression and the associated gradients
-   across tissues, from ST datasets. 
+   A typical approach to analysing data is to place data points (e.g. cells) into discrete 
+   categories, using clustering methods. While useful, these methods often miss continuous 
+   variation amongst cells. This can be particularly important in tumours where cells can 
+   lie on a continuum spectrum of states. With the advent of spatial transcriptomics (ST), 
+   there is an opportunity to quantify the spatial distributions of these states and their 
+   gradients. I am combining ideas from the Implicit Neural Representations and Latent 
+   Factor Models to learn continuous, spatial functions of gene-program expression and 
+   the associated gradients across tissues, from ST datasets. 
  
  - **Non-coding variants and Sequence-to-function modelsi.**
    The research I performed during my XDF (see below) left me fascinated by how the combinatorial 
    interactions of transcription factors with non-coding regions of the genome regulate the expression 
-   of genes. Modelling epigenetic data using sequence-to-function models has 
-   begun providing insights into these *enhancer codes* and I am interested in using this kind of 
-   modelling to begin interpreting the effects non-coding variants have on tumour gene expression.
+   of genes. Progress in modelling epigenetic data using deep-learning sequence-to-function models 
+   has begun providing insights into these *enhancer codes*. I am interested in using these 
+   modelling approaches to interpret the effects non-coding variants have on tumour gene expression.
    I have gained experience training these models in the context of pancreatic cancer, using 
-   publicly-available scATAC-seq datasets. I am also interested in exploring the use of these models
-   for comparison of pre-clinical models with human tumours. 
+   publicly-available scATAC-seq datasets. I am also interested in using these models to make
+   cross-species comparisons of pre-clinical models with human tumours. 
 
 
 As part of my role at the CRUK-SI, I am priviledged to be able to co-supervise multiple 
