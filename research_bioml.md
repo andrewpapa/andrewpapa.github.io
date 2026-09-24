@@ -70,7 +70,7 @@ specific biological questions. Recent examples of this include:
    how well do models recapitulate key events in human cancers, and how do we rank different 
    models of a given cancer? To begin to answer these, I have developed a framework that compares 
    celltype-specific gene programs across species. This uses scRNA-seq datasets together 
-   with matrix-factorization algorithms (e.g. NMF or archetypal analysis), optimal transport 
+   with matrix-factorization algorithms (NMF, archetypal analysis), optimal transport 
    and protein-language models (e.g. ESM2).
 
  - **Quantifying gene-program gradients in tumours.**
@@ -108,7 +108,7 @@ and mesothelioma).
 During my XDF (2018-2022), my work focussed on quantifying the neccessary molecular changes 
 required for the stable formation of the mammalian eye-field -- the earliest known stage of 
 eye development.
-The main goal of this research was to identify how a key set of eye-field transcription factors 
+The main goal of this research was to identify how a key group of eye-field transcription factors 
 is switched-on in a coordinated manner in the developing neural plate during gastrulation. 
 
 Specifically, the main project I was involved with during this period used time-course data 
@@ -118,9 +118,9 @@ a systematic approach to identify candidate transcription factors and cis-regula
 important for controlling the transition of stem cells to the eye-field state. Full details of 
 this project can be found in our article in [Development](https://doi.org/10.1242/dev.201432).
 
-During this period I was also very grateful to be awarded a small grant (*Wellcome/UoE ISSF*) titled
+During this period I was also grateful to be awarded a small grant (*Wellcome/UoE ISSF*) titled
 "*Coupled transcriptome-chromatin dynamics and regulation of cell state in early eye development*". 
-The grant funded the generation of 10X Multiome data on optic-cup organoids and enabled the development
+This funded the generation of 10X Multiome data from optic-cup organoids and enabled the development
 of computational approaches for the integrated analysis of scRNA-seq and scATAC-seq data. 
 The key aims of this were to generate hypotheses of principles of chromatin-regulated 
 gene-expression and cell differentiation, during eye-field specification.  
