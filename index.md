@@ -9,27 +9,31 @@ permalink: /
 I am an Associate Scientist at the [CRUK Scotland Institute](https://www.crukscotlandinstitute.ac.uk/) 
 working within the Computational Biology group lead by 
 [Crispin Miller](https://www.crukscotlandinstitute.ac.uk/cruk-si-research/cruk-si-research-groups/crispin-miller-computational-biology.html).
+I develop and apply Machine Learning, AI and statistical methods to single-cell 
+omics, spatial transcriptomics and imaging datasets.
+I work with data generated across a number of cancer contexts, with the overarching goals of: 
+
+ - gaining mechanistic understanding of cellular transitions in cancer, particularly
+   those associated with the onset of malignancy, poor prognoses and treatment evasion, and 
+ - making robust, quantitative comparisons of preclinical models with human disease,
+   specifically focussing on gene-expression programs and mouse models of cancer.  
+
 Prior to joining the CRUK-SI, I was a Cross Disciplinary Fellow ([XDF](https://www.ed.ac.uk/cross-disciplinary-fellowships))
 working at the MRC [Human Genetics Unit](https://www.ed.ac.uk/mrc-human-genetics-unit) and
 [School of Informatics](https://www.ed.ac.uk/informatics) at the University of Edinburgh, 
 within the groups of [David FitzPatrick](https://edwebprofiles.ed.ac.uk/profile/david-fitzpatrick)
 and [Catalina Vallejos](https://vallejosgroup.github.io/). 
+During this period, the biological focus of my work lay in the 
+field of eye development, where I collaborated closely with 
+wet-lab scientists to unpick the crucial molecular events required to 
+establish the earliest ocular structures in mammals.
 
-I develop and apply Machine Learning, AI and statistical methods to single-cell 
-omics, spatial transcriptomics and imaging datasets.
-In my current role I work with data generated across a number 
-of cancer contexts, with the overarching goal of: 
-
- - gaining a mechanistic understanding of cellular transitions in cancer, particularly
-   those associated with the onset of malignancy, poor prognoses and treatment evasion, and 
- - making robust, quantitative comparisons of preclinical models with human disease,
-   with a specific focus on gene-expression programs and mouse models of cancer.  
-
+<!---
 During my time as an XDF, the biological focus of my work lay in the 
 field of very early eye development, where I collaborated closely with 
 wet-lab scientists to unpick the crucial molecular events required to 
 establish the earliest ocular structures in mammals.
-<!---
+
 I am now excited to apply the expertise and knowledge gained during 
 my years in Edinburgh to tackle fundamental questions in cancer!
 This work has the potential to inform genetic diagnoses of paediatric eye-malformations,
