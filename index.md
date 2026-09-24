@@ -10,12 +10,11 @@ I am an Associate Scientist at the [CRUK Scotland Institute](https://www.cruksco
 working within the Computational Biology group lead by 
 [Crispin Miller](https://www.crukscotlandinstitute.ac.uk/cruk-si-research/cruk-si-research-groups/crispin-miller-computational-biology.html).
 I develop and apply Machine Learning, AI and statistical methods to single-cell 
-omics, spatial transcriptomics and imaging datasets.
-I work with data generated across a number of cancer contexts, with the goal of: 
+omics, spatial transcriptomics and imaging datasets, in order to:
 
- - gaining mechanistic understanding of cellular transitions in cancer, particularly
+ - gain mechanistic insights into cellular transitions in cancer, particularly
    those associated with the onset of malignancy, poor prognoses and treatment evasion, and 
- - making robust, quantitative comparisons of preclinical models with human disease,
+ - make robust, quantitative comparisons of preclinical models with human disease,
    focused on gene-expression programs and mouse models of cancer.  
 
 Additionally, I co-supervise and mentor a small team of PhD students within the group,
