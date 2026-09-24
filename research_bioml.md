@@ -83,7 +83,7 @@ specific biological questions. Recent examples of this include:
    Factor Models to learn continuous, spatial functions of gene-program expression and 
    the associated gradients across tissues, from ST datasets. 
  
- - **Non-coding variants and Sequence-to-function modelsi.**
+ - **Non-coding variants and Sequence-to-function models.**
    The research I performed during my XDF (see below) left me fascinated by how the combinatorial 
    interactions of transcription factors with non-coding regions of the genome regulate the expression 
    of genes. Progress in modelling epigenetic data using deep-learning sequence-to-function models 
