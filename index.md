@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/photo.jpg" caption="" max_width="250px" align="right" %}
+{% include image.html url="images/photo.jpg" caption="" max_width="200px" align="right" %}
 
 I am an Associate Scientist at the [CRUK Scotland Institute](https://www.crukscotlandinstitute.ac.uk/) 
 working within the Computational Biology group lead by 
