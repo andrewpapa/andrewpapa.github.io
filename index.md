@@ -13,7 +13,7 @@ I develop and apply Machine Learning, AI and statistical methods to single-cell
 omics, spatial transcriptomics and imaging datasets, in order to:
 
  - gain mechanistic insights into cellular transitions in cancer, particularly
-   those associated with the onset of malignancy, poor prognoses and treatment evasion, and 
+   those associated with onset of malignancy, poor prognoses and treatment evasion;  
 
  - make robust, quantitative comparisons of preclinical models with human disease,
    focused on gene-expression programs and mouse models of cancer.  
