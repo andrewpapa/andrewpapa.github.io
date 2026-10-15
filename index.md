@@ -14,12 +14,13 @@ omics, spatial transcriptomics and imaging datasets, in order to:
 
  - gain mechanistic insights into cellular transitions in cancer, particularly
    those associated with the onset of malignancy, poor prognoses and treatment evasion, and 
+
  - make robust, quantitative comparisons of preclinical models with human disease,
    focused on gene-expression programs and mouse models of cancer.  
 
 Additionally, I co-supervise and mentor a small team of PhD students within the group,
-helping to refine research directions and computational analysis strategies, as well
-as participating in day-to-day troubleshooting. 
+providing day-to-day research guidance and help with shaping project directions and 
+analytical strategies.
 
 Prior to joining the CRUK-SI, I was a Cross Disciplinary Fellow ([XDF](https://www.ed.ac.uk/cross-disciplinary-fellowships))
 working at the MRC [Human Genetics Unit](https://www.ed.ac.uk/mrc-human-genetics-unit) and
